@@ -5,8 +5,8 @@
 *   Luis Chavez Saenz
 
 ## Table of Contents
-1.  Improving Productivity and Competitiveness
-    1. GIT
+1.  [Improving Productivity and Competitiveness](/ImprovingProductivityCompetitiveness.md)
+    1. [GIT](/ImprovingProductivityCompetitiveness.md#git)
     2. Docker
     3. Automated Testing
     4. Continuous Integration
@@ -28,10 +28,12 @@
 ## Changelog
 **Change Type** | **Change description** | **Author**
 ----    |   ----    |   -----
-Feature |   Create repository  | Luis Chavez Saenz
-Task    |   Add Sally Khalil as a collaborator  | Luis Chavez Saenz
-Task    |   Add group members to README file  | Luis Chavez Saenz
-Feature |   Create table of contents  | Luis Chavez Saenz
-Feature |   Create changelog table    | Luis Chavez Saenz
-Task    |   Add gitignore file        | Luis Chavez Saenz
-Task    |   Update table of contents and changelog | Luis Chavez Saenz
+Feature |   Created repository  | Luis Chavez Saenz
+Task    |   Added Sally Khalil as a collaborator  | Luis Chavez Saenz
+Task    |   Added group members to README file  | Luis Chavez Saenz
+Feature |   Created table of contents  | Luis Chavez Saenz
+Feature |   Created changelog table    | Luis Chavez Saenz
+Task    |   Added gitignore file        | Luis Chavez Saenz
+Task    |   Updated table of contents and changelog | Luis Chavez Saenz
+Feature |   Created Improving Productivity and Competitiveness file | Luis Chavez Saenz
+Task    |   Added internal links and anchors    | Luis Chavez Saenz
