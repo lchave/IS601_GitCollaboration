@@ -6,7 +6,7 @@
 
 ## Table of Contents
 1.  [Improving Productivity and Competitiveness](/ImprovingProductivityCompetitiveness.md)
-    1. [GIT](/ImprovingProductivityCompetitiveness.md#gitdefinition)
+    1. [GIT](/ImprovingProductivityCompetitiveness.md#git)
     2. Docker
     3. Automated Testing
     4. Continuous Integration
