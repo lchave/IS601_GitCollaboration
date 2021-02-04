@@ -37,3 +37,4 @@ Task    |   Added gitignore file        | Luis Chavez Saenz
 Task    |   Updated table of contents and changelog | Luis Chavez Saenz
 Feature |   Created Improving Productivity and Competitiveness file | Luis Chavez Saenz
 Task    |   Added internal links and anchors    | Luis Chavez Saenz
+Feature    |   Added Git definition and advantages    | Luis Chavez Saenz
