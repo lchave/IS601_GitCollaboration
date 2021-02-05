@@ -16,7 +16,7 @@
     2. Clone vs. Fork
     3. Branch
     4. Master Branch
-4.  Git Commands
+4.  [Git Commands](/GitCommands.md)
     1. Commit
     2. Merge
     3. Checkout
@@ -38,3 +38,4 @@ Task    |   Updated table of contents and changelog | Luis Chavez Saenz
 Feature |   Created Improving Productivity and Competitiveness file | Luis Chavez Saenz
 Task    |   Added internal links and anchors    | Luis Chavez Saenz
 Feature    |   Added Git definition and advantages    | Luis Chavez Saenz
+Feature    |   Added Git Commit definition and example  | Sally Khalil
