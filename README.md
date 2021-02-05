@@ -16,9 +16,9 @@
     2. Clone vs. Fork
     3. Branch
     4. Master Branch
-4.  [Git Commands](/GitCommands.md)
-    1. Commit
-    2. Merge
+4.  [Git Commands](/GitCommands.md#git-commands)
+    1. [Commit](/GitCommands.md#1.-commit)
+    2. [Merge](/GitCommands.md#2.-merge)
     3. Checkout
     4. Push
     5. Pull
@@ -41,6 +41,7 @@ Feature    |   Added Git definition and advantages    | Luis Chavez Saenz
 Feature    |   Added Git Commit definition and example  | Sally Khalil
 Feature    |   Added Git Merge definition and example  | Sally Khalil
 Feature    |   Created Reference Log  | Sally Khalil
+Task    |   Added internal links    | Luis Chavez Saenz
 
 ## References
 1. 
