@@ -40,3 +40,7 @@ Task    |   Added internal links and anchors    | Luis Chavez Saenz
 Feature    |   Added Git definition and advantages    | Luis Chavez Saenz
 Feature    |   Added Git Commit definition and example  | Sally Khalil
 Feature    |   Added Git Merge definition and example  | Sally Khalil
+Feature    |   Created Reference Log  | Sally Khalil
+
+## References
+1. 
