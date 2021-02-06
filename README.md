@@ -7,7 +7,7 @@
 ## Table of Contents
 1.  [Improving Productivity and Competitiveness](/ImprovingProductivityCompetitiveness.md#improving-productivity-and-competitiveness)
     1. [GIT](/ImprovingProductivityCompetitiveness.md#git)
-    2. Docker
+    2. [Docker](/ImprovingProductivityCompetitiveness.md#docker)
     3. Automated Testing
     4. Continuous Integration
 2.  Gitflow Workflow
@@ -28,20 +28,24 @@
 ## Changelog
 **Change Type** | **Change description** | **Author**
 ----    |   ----    |   -----
-Feature |   Created repository  | Luis Chavez Saenz
+Feature |   Created repository  |   Luis Chavez Saenz
 Task    |   Added Sally Khalil as a collaborator  | Luis Chavez Saenz
-Task    |   Added group members to README file  | Luis Chavez Saenz
-Feature |   Created table of contents  | Luis Chavez Saenz
-Feature |   Created changelog table    | Luis Chavez Saenz
-Task    |   Added gitignore file        | Luis Chavez Saenz
-Task    |   Updated table of contents and changelog | Luis Chavez Saenz
-Feature |   Created Improving Productivity and Competitiveness file | Luis Chavez Saenz
-Task    |   Added internal links and anchors    | Luis Chavez Saenz
-Feature    |   Added Git definition and advantages    | Luis Chavez Saenz
-Feature    |   Added Git Commit definition and example  | Sally Khalil
-Feature    |   Added Git Merge definition and example  | Sally Khalil
-Feature    |   Created Reference Log  | Sally Khalil
-Task    |   Added internal links    | Luis Chavez Saenz
+Task    |   Added group members to README file  |   Luis Chavez Saenz
+Feature |   Created table of contents   |    Luis Chavez Saenz
+Feature |   Created changelog table |   Luis Chavez Saenz
+Task    |   Added gitignore file    |   Luis Chavez Saenz
+Task    |   Updated table of contents and changelog |   Luis Chavez Saenz
+Feature |   Created Improving Productivity and Competitiveness file |   Luis Chavez Saenz
+Task    |   Added internal links and anchors    |   Luis Chavez Saenz
+Feature |   Added Git definition and advantages    |    Luis Chavez Saenz
+Feature |   Added Git Commit definition and example  |  Sally Khalil
+Feature |   Added Git Merge definition and example  |   Sally Khalil
+Feature |   Created Reference Log  |    Sally Khalil
+Task    |   Added internal links    |   Luis Chavez Saenz
+Feature |   Added Docker definition and advantages |    Luis Chavez Saenz
+Task    |   Updated git definition and added images |   Luis Chavez Saenz
+Task    |   Added references for Git and Docker |   Luis Chavez Saenz
 
 ## References
-1. 
+1. [Git - What is Git?](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
+2. [What is Git? - Azure DevOps | Microsoft Docs](https://docs.microsoft.com/en-us/azure/devops/learn/git/what-is-git)
