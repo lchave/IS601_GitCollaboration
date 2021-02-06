@@ -7,7 +7,7 @@ Over the last few years new technologies have enabled companies to increase thei
 
 In addition, there have also been new development practices that improved the usage of these technologies as well as enabled companies to quickly detect any issues with new implementations and minimize the impact these might have on their product and services.
 
-1. Automated Testing
+1. [Automated Testing](#automated-testing)
 2. Continuous Integration
 
 ## GIT
@@ -26,4 +26,12 @@ Docker is a platform used for developing and running applications within contain
 [![Introduction to Docker](http://img.youtube.com/vi/Q5POuMHxW-0/0.jpg)](http://www.youtube.com/watch?v=Q5POuMHxW-0 "Introduction to Docker")
 
 Similar to Git, Docker is another great collaboration tool. You can share containers with others to ensure everyone's environment works the same way. It also enables companies to accelerate the distribution and testing of their applications while keeping production environments untouched until everything has been fully tested. Due to its portability Docker allows you to manage workloads by scaling up or tearing down applications depending on the business needs. This also makes it cost-effective since you only pay for exactly what you need at that moment. 
+
+## Automated Testing
+Part of the software lifecycle involves testing the new code\features added in the application or service; ensuring that these new features do not break existing functionality, and that they actually do what they are supposed to do. Previously, testing was only performed manually and companies would have QA teams responsible for performing these tasks. This was a tedious and expensive process, until Automated testing was introduced.
+
+![Automated Testing](/Images/automated-testing.png)
+
+Basically, all the manual tasks performed by the QA team were now performed using other software tools, and the responsibility was transferred back to the engineering team. They would be the ones in charge of developing the test plans along with the roadmap for each feature release. This enabled companies to reduce the size of their QA team and shift their focus to more sensitive features.
+
 
