@@ -20,7 +20,7 @@ Git is a Version Control System (VCS), however, is not like any other VCS. Most 
 
 One of the many advantages of using Git is that most operations only require local files and resources since you have all the files from the project cloned to your local repository. Which means that all these operations will be completed almost instantaneous, even if you are offline or are not connected to VPN. This makes Git a great collaboration tool, especially when you have multiple developers working on different sections of same project simultaneously. Each developer could work on their own branch offline without affecting the production environment; ensuring that only stable and high-quality code is released at a fast paced.
 
-##Docker
+## Docker
 Docker is a platform used for developing and running applications within containers. The applications are basically isolated and packaged within the containers. These containers are lightweight and do not rely on what is installed on the infrastructure running them. Given that containers can run independently of their infrastructure you can ensure that the same application runs smoothly, on a local computer, a data center, in the cloud or even in a mixed environment. 
 
 [![Introduction to Docker](http://img.youtube.com/vi/Q5POuMHxW-0/0.jpg)](http://www.youtube.com/watch?v=Q5POuMHxW-0 "Introduction to Docker")
