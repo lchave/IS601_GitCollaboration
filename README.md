@@ -8,7 +8,7 @@
 1.  [Improving Productivity and Competitiveness](/ImprovingProductivityCompetitiveness.md#improving-productivity-and-competitiveness)
     1. [GIT](/ImprovingProductivityCompetitiveness.md#git)
     2. [Docker](/ImprovingProductivityCompetitiveness.md#docker)
-    3. Automated Testing
+    3. [Automated Testing](/ImprovingProductivityCompetitiveness.md#automated-testing)
     4. Continuous Integration
 2.  Gitflow Workflow
 3.  Git Terminology
@@ -45,9 +45,12 @@ Task    |   Added internal links    |   Luis Chavez Saenz
 Feature |   Added Docker definition and advantages |    Luis Chavez Saenz
 Task    |   Updated git definition and added images |   Luis Chavez Saenz
 Task    |   Added references for Git and Docker |   Luis Chavez Saenz
+Feature |   Added automated testing definition and advantages   |   Luis Chavez Saenz
+Task    |   Updated changelog and added reference   | Luis Chavez Saenz
 
 ## References
 1. [Git - What is Git?](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
 2. [What is Git? - Azure DevOps | Microsoft Docs](https://docs.microsoft.com/en-us/azure/devops/learn/git/what-is-git)
 3. [Docker overview | Docker Documentation](https://docs.docker.com/get-started/overview/)
 4. [What is Docker? | Opensource.com](https://opensource.com/resources/what-docker)
+5. [Automated Software Testing for Continuous Delivery](https://www.atlassian.com/continuous-delivery/software-testing/automated-testing)
