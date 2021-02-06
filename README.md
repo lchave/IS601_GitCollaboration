@@ -49,3 +49,5 @@ Task    |   Added references for Git and Docker |   Luis Chavez Saenz
 ## References
 1. [Git - What is Git?](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
 2. [What is Git? - Azure DevOps | Microsoft Docs](https://docs.microsoft.com/en-us/azure/devops/learn/git/what-is-git)
+3. [Docker overview | Docker Documentation](https://docs.docker.com/get-started/overview/)
+4. [What is Docker? | Opensource.com](https://opensource.com/resources/what-docker)
