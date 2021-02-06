@@ -8,7 +8,7 @@ Over the last few years new technologies have enabled companies to increase thei
 In addition, there have also been new development practices that improved the usage of these technologies as well as enabled companies to quickly detect any issues with new implementations and minimize the impact these might have on their product and services.
 
 1. [Automated Testing](#automated-testing)
-2. Continuous Integration
+2. [Continuous Integration](#continuous-integration)
 
 ## GIT
 Git is a Version Control System (VCS), however, is not like any other VCS. Most VCS only capture the changes made to each file over time, also known as delta-based version control. On the other hand, Git takes a snapshot of what all your files look like at the moment of the commit or when the project is saved. Git also shares some similarities with other version control systems, like not loosing any changes once they are committed. Every change in Git generates a checksum using SHA-1 hash, this hash is stored on the Git database and is the key used to identify any changes made to the repository. This enables you to make changes without the worry of destroying your production environment as you can always revert these changes.
@@ -34,4 +34,4 @@ Part of the software lifecycle involves testing the new code\features added in t
 
 Basically, all the manual tasks performed by the QA team were now performed using other software tools, and the responsibility was transferred back to the engineering team. They would be the ones in charge of developing the test plans along with the roadmap for each feature release. This enabled companies to reduce the size of their QA team and shift their focus to more sensitive features.
 
-
+## Continuous Integration
