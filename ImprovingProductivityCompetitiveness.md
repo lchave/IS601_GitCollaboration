@@ -35,3 +35,8 @@ Part of the software lifecycle involves testing the new code\features added in t
 Basically, all the manual tasks performed by the QA team were now performed using other software tools, and the responsibility was transferred back to the engineering team. They would be the ones in charge of developing the test plans along with the roadmap for each feature release. This enabled companies to reduce the size of their QA team and shift their focus to more sensitive features.
 
 ## Continuous Integration
+Continuous integration (CI) is a development practice for automating the integration  of multiple code changes into a single repository where builds and tests then run. Using a VCS and other automated tools, like automated code quality tests, and syntax style review tools, are essential to the CI process.
+
+![Continuous Integration](/Images/continuous-integration.png)
+
+A CI process enables a company to save time, implement changes faster and stay competitive in the market. Without a CI process, multiple teams in the organization must coordinate and communicate when they are new code changes, new releases, and new bug fixes that need to implemented. Also, all the benefits of using a VCS, like having multiple developers working is different features in parallel, are also applied here given that a VCS is essential to the CI process.
