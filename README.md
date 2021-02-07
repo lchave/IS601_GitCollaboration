@@ -19,7 +19,7 @@
 4.  [Git Commands](/GitCommands.md#git-commands)
     1. [Commit](/GitCommands.md#1-commit)
     2. [Merge](/GitCommands.md#2-merge)
-    3. Checkout
+    3. [Checkout](GitCommands.md#3-checkout)
     4. Push
     5. Pull
     6. Remote Add / Remove / Show
@@ -53,6 +53,8 @@ Feature |   Added Git Terminology file and Repository definition    |   Luis Cha
 Task    |   Updated changelog and added reference   | Luis Chavez Saenz
 Task    |   Added internal links    |   Luis Chavez Saenz
 Feature |   Added Clone vs. Fork definition    |   Luis Chavez Saenz
+Feature |   Added Git Checkout definition and example   |   Sally Khalil
+Task    |   Updated changelog and added reference   | Sally Khalil
 
 ## References
 1. [Git - What is Git?](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
@@ -65,3 +67,5 @@ Feature |   Added Clone vs. Fork definition    |   Luis Chavez Saenz
 8. [About repositories | GitHub Docs](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-repositories)
 9. [What is a repository?](https://www.lynda.com/Git-tutorials/What-repository/601791/629515-4.html)
 10. [Git - Getting a Git Repository](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
+11. [Git Commands](https://www.git-tower.com/learn/git/commands/)
+

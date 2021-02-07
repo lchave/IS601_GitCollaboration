@@ -8,3 +8,8 @@ For example: after adding a new branch to a project in WebStorm, in order for th
 A merge git command will bring together any changes made to a commit from multiple branches into one, i.e. two local branches can be merged into the master to bring together both commits. The merge command is especially useful to maintain the context of both branches while preserving the history and order.
 
 For example: In the image below, the bugfix commit was created, commits C2 and C3 were merged to come together in the main. 
+
+## 3. Checkout
+The checkout command is used to switch a current branch and is most commonly used to switch to a different branch making it the new HEAD. The git merge and git checkout commands are often used simultaneously with each other and are both important for git workflows.
+
+For example: In the image below, the git checkout command is used to create a new branch. The command [git checkout -b bugfix] allows us to create a new branch (bugfix) and check it out in one step.
