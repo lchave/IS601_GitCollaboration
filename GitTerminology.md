@@ -2,7 +2,7 @@
 
 There are a few terminologies you must become familiar with. We will define some of them along with some useful [Git commands](/GitCommands.md) that will ensure your success when working with [Git](ImprovingProductivityCompetitiveness.md#git).
 
-# Repository
+## Repository
 In the simplest terms, you can think of a repository as a folder where you can store all the files related to the project you are working on, along with each file's revision history. Repositories are hosted and centralized in a VCS.
 
 Whenever a developer needs to make a change, they usually checkout the central repository and create a local copy of it. Then they will create a new branch to implement their changes, and once the developer has completed the changes they would check them back in to the central repository.
@@ -21,3 +21,4 @@ git add LICENSE
 git commit -m 'Intial project version'
 ```
 
+## Clone vs. Fork

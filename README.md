@@ -11,9 +11,9 @@
     3. [Automated Testing](/ImprovingProductivityCompetitiveness.md#automated-testing)
     4. [Continuous Integration](/ImprovingProductivityCompetitiveness.md#continuous-integration)
 2.  Gitflow Workflow
-3.  Git Terminology
-    1. Repository
-    2. Clone vs. Fork
+3.  [Git Terminology](/GitTerminology.md#git-terminology)
+    1. [Repository](/GitTerminology.md#repository)
+    2. [Clone vs. Fork](GitTerminology.md#clone-vs-fork)
     3. Branch
     4. Master Branch
 4.  [Git Commands](/GitCommands.md#git-commands)
@@ -51,6 +51,8 @@ Feature |   Added Continuous Integration definition and advantages   |   Luis Ch
 Task    |   Updated changelog and added reference   | Luis Chavez Saenz
 Feature |   Added Git Terminology file and Repository definition    |   Luis Chavez Saenz
 Task    |   Updated changelog and added reference   | Luis Chavez Saenz
+Task    |   Added internal links    |   Luis Chavez Saenz
+Feature |   Added Clone vs. Fork definition    |   Luis Chavez Saenz
 
 ## References
 1. [Git - What is Git?](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
