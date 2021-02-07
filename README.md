@@ -17,8 +17,8 @@
     3. Branch
     4. Master Branch
 4.  [Git Commands](/GitCommands.md#git-commands)
-    1. [Commit](/GitCommands.md#1.-commit)
-    2. [Merge](/GitCommands.md#2.-merge)
+    1. [Commit](/GitCommands.md#1-commit)
+    2. [Merge](/GitCommands.md#2-merge)
     3. Checkout
     4. Push
     5. Pull
@@ -49,6 +49,8 @@ Feature |   Added Automated Testing definition and advantages   |   Luis Chavez 
 Task    |   Updated changelog and added reference   | Luis Chavez Saenz
 Feature |   Added Continuous Integration definition and advantages   |   Luis Chavez Saenz
 Task    |   Updated changelog and added reference   | Luis Chavez Saenz
+Feature |   Added Git Terminology file and Repository definition    |   Luis Chavez Saenz
+Task    |   Updated changelog and added reference   | Luis Chavez Saenz
 
 ## References
 1. [Git - What is Git?](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
@@ -58,3 +60,6 @@ Task    |   Updated changelog and added reference   | Luis Chavez Saenz
 5. [Automated Software Testing for Continuous Delivery](https://www.atlassian.com/continuous-delivery/software-testing/automated-testing)
 6. [What is Continuous Integration | Atlassian](https://www.atlassian.com/continuous-delivery/continuous-integration)
 7. [What is Continuous Integration? | PagerDuty](https://www.pagerduty.com/resources/learn/what-is-continuous-integration/)
+8. [About repositories | GitHub Docs](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-repositories)
+9. [What is a repository?](https://www.lynda.com/Git-tutorials/What-repository/601791/629515-4.html)
+10. [Git - Getting a Git Repository](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
