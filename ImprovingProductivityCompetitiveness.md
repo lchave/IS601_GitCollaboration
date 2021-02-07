@@ -39,4 +39,4 @@ Continuous integration (CI) is a development practice for automating the integra
 
 ![Continuous Integration](/Images/continuous-integration.png)
 
-A CI process enables a company to save time, implement changes faster and stay competitive in the market. Without a CI process, multiple teams in the organization must coordinate and communicate when they are new code changes, new releases, and new bug fixes that need to implemented. Also, all the benefits of using a VCS, like having multiple developers working is different features in parallel, are also applied here given that a VCS is essential to the CI process.
+A CI process enables a company to save time, implement changes faster and stay competitive in the market. Without a CI process, multiple teams in the organization must coordinate and communicate when there are new code changes, new releases, and new bug fixes that need to implemented. Also, all the benefits of using a VCS, like having multiple developers working is different features in parallel, are also applied here given that a VCS is essential to the CI process.
