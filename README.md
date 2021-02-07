@@ -57,6 +57,9 @@ Feature |   Added Git Checkout definition and example   |   Sally Khalil
 Task    |   Updated changelog and added reference   | Sally Khalil
 Task    |   Added image for git commit example   | Sally Khalil
 Task    |   Updated changelog and added reference   | Sally Khalil
+Task    |   Added image for git merge and checkout example   | Sally Khalil
+Task    |   Updated changelog   | Sally Khalil
+
 
 ## References
 1. [Git - What is Git?](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
