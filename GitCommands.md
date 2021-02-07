@@ -4,6 +4,9 @@ A commit is a snapshot of a project history. It is used to save changes to a loc
 
 For example: after adding a new branch to a project in WebStorm, in order for the changes to be reflected in the local repository, the next step would be to use the commit command.
 
+[Git Commit](/Images/Git-Commit.png)
+
+
 ## 2. Merge
 A merge git command will bring together any changes made to a commit from multiple branches into one, i.e. two local branches can be merged into the master to bring together both commits. The merge command is especially useful to maintain the context of both branches while preserving the history and order.
 
