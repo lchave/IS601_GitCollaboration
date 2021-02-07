@@ -19,7 +19,7 @@
 4.  [Git Commands](/GitCommands.md#git-commands)
     1. [Commit](/GitCommands.md#1.-commit)
     2. [Merge](/GitCommands.md#2.-merge)
-    3. Checkout
+    3. [Checkout](GitCommands.md#3-checkout)
     4. Push
     5. Pull
     6. Remote Add / Remove / Show
@@ -49,6 +49,8 @@ Feature |   Added Automated Testing definition and advantages   |   Luis Chavez 
 Task    |   Updated changelog and added reference   | Luis Chavez Saenz
 Feature |   Added Continuous Integration definition and advantages   |   Luis Chavez Saenz
 Task    |   Updated changelog and added reference   | Luis Chavez Saenz
+Feature |   Added Git Checkout definition and example   |   Sally Khalil
+Task    |   Updated changelog and added reference   | Sally Khalil
 
 ## References
 1. [Git - What is Git?](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
@@ -58,3 +60,4 @@ Task    |   Updated changelog and added reference   | Luis Chavez Saenz
 5. [Automated Software Testing for Continuous Delivery](https://www.atlassian.com/continuous-delivery/software-testing/automated-testing)
 6. [What is Continuous Integration | Atlassian](https://www.atlassian.com/continuous-delivery/continuous-integration)
 7. [What is Continuous Integration? | PagerDuty](https://www.pagerduty.com/resources/learn/what-is-continuous-integration/)
+8. [Git Commands](https://www.git-tower.com/learn/git/commands/)
