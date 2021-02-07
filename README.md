@@ -55,6 +55,8 @@ Task    |   Added internal links    |   Luis Chavez Saenz
 Feature |   Added Clone vs. Fork definition    |   Luis Chavez Saenz
 Feature |   Added Git Checkout definition and example   |   Sally Khalil
 Task    |   Updated changelog and added reference   | Sally Khalil
+Task    |   Added image for git commit example   | Sally Khalil
+Task    |   Updated changelog and added reference   | Sally Khalil
 
 ## References
 1. [Git - What is Git?](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
@@ -68,4 +70,5 @@ Task    |   Updated changelog and added reference   | Sally Khalil
 9. [What is a repository?](https://www.lynda.com/Git-tutorials/What-repository/601791/629515-4.html)
 10. [Git - Getting a Git Repository](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
 11. [Git Commands](https://www.git-tower.com/learn/git/commands/)
+
 
