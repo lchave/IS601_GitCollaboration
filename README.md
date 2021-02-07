@@ -57,3 +57,4 @@ Task    |   Updated changelog and added reference   | Luis Chavez Saenz
 4. [What is Docker? | Opensource.com](https://opensource.com/resources/what-docker)
 5. [Automated Software Testing for Continuous Delivery](https://www.atlassian.com/continuous-delivery/software-testing/automated-testing)
 6. [What is Continuous Integration | Atlassian](https://www.atlassian.com/continuous-delivery/continuous-integration)
+7. [What is Continuous Integration? | PagerDuty](https://www.pagerduty.com/resources/learn/what-is-continuous-integration/)
