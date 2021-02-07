@@ -50,6 +50,7 @@ Task    |   Updated changelog and added reference   | Luis Chavez Saenz
 Feature |   Added Continuous Integration definition and advantages   |   Luis Chavez Saenz
 Task    |   Updated changelog and added reference   | Luis Chavez Saenz
 Feature |   Added Git Terminology file and Repository definition    |   Luis Chavez Saenz
+Task    |   Updated changelog and added reference   | Luis Chavez Saenz
 
 ## References
 1. [Git - What is Git?](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
