@@ -61,3 +61,4 @@ Feature |   Added Git Terminology file and Repository definition    |   Luis Cha
 7. [What is Continuous Integration? | PagerDuty](https://www.pagerduty.com/resources/learn/what-is-continuous-integration/)
 8. [About repositories | GitHub Docs](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-repositories)
 9. [What is a repository?](https://www.lynda.com/Git-tutorials/What-repository/601791/629515-4.html)
+10. [Git - Getting a Git Repository](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
