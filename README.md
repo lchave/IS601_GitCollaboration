@@ -11,14 +11,14 @@
     3. [Automated Testing](/ImprovingProductivityCompetitiveness.md#automated-testing)
     4. [Continuous Integration](/ImprovingProductivityCompetitiveness.md#continuous-integration)
 2.  Gitflow Workflow
-3.  Git Terminology
-    1. Repository
-    2. Clone vs. Fork
+3.  [Git Terminology](/GitTerminology.md#git-terminology)
+    1. [Repository](/GitTerminology.md#repository)
+    2. [Clone vs. Fork](GitTerminology.md#clone-vs-fork)
     3. Branch
     4. Master Branch
 4.  [Git Commands](/GitCommands.md#git-commands)
-    1. [Commit](/GitCommands.md#1.-commit)
-    2. [Merge](/GitCommands.md#2.-merge)
+    1. [Commit](/GitCommands.md#1-commit)
+    2. [Merge](/GitCommands.md#2-merge)
     3. [Checkout](GitCommands.md#3-checkout)
     4. Push
     5. Pull
@@ -49,6 +49,10 @@ Feature |   Added Automated Testing definition and advantages   |   Luis Chavez 
 Task    |   Updated changelog and added reference   | Luis Chavez Saenz
 Feature |   Added Continuous Integration definition and advantages   |   Luis Chavez Saenz
 Task    |   Updated changelog and added reference   | Luis Chavez Saenz
+Feature |   Added Git Terminology file and Repository definition    |   Luis Chavez Saenz
+Task    |   Updated changelog and added reference   | Luis Chavez Saenz
+Task    |   Added internal links    |   Luis Chavez Saenz
+Feature |   Added Clone vs. Fork definition    |   Luis Chavez Saenz
 Feature |   Added Git Checkout definition and example   |   Sally Khalil
 Task    |   Updated changelog and added reference   | Sally Khalil
 
@@ -60,4 +64,8 @@ Task    |   Updated changelog and added reference   | Sally Khalil
 5. [Automated Software Testing for Continuous Delivery](https://www.atlassian.com/continuous-delivery/software-testing/automated-testing)
 6. [What is Continuous Integration | Atlassian](https://www.atlassian.com/continuous-delivery/continuous-integration)
 7. [What is Continuous Integration? | PagerDuty](https://www.pagerduty.com/resources/learn/what-is-continuous-integration/)
-8. [Git Commands](https://www.git-tower.com/learn/git/commands/)
+8. [About repositories | GitHub Docs](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-repositories)
+9. [What is a repository?](https://www.lynda.com/Git-tutorials/What-repository/601791/629515-4.html)
+10. [Git - Getting a Git Repository](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
+11. [Git Commands](https://www.git-tower.com/learn/git/commands/)
+
