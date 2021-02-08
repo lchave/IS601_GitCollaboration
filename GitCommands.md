@@ -67,5 +67,9 @@ The git remote add command creates a connection to a new remote repository. As b
 
 For example: $ git remote add <name> <url> can be used to add a new remote repository to an existing one.
 
+### b) Removing a remote
+The git remote remove command cuts all connections from a remote repository; disconnecting it from the local repository. The remote repo is unaffected by this command, but the local repo will no longer be able to access the remote.
+
+For example: $ git remove <name> can be used to detach a remote repository from an existing local one.
 
 

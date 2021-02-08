@@ -26,7 +26,7 @@
        
         a. [Add](GitCommands.md#a-adding-a-remote) 
        
-        b. Remove 
+        b. [Remove](GitCommands.md#b-removing-a-remote) 
        
         c. Show
     7. Status
@@ -75,6 +75,8 @@ Task    |   Updated Clone vs. Fork definition   |   Luis Chavez Saenz
 Feature |   Added Gitflow definition    | Luis Chavez Saenz
 Feature |   Added Git Remote Addition definition   |   Sally Khalil
 Task    |   Updated changelog and added reference   | Sally Khalil
+Feature |   Added Git Remote Removal definition   |   Sally Khalil
+Task    |   Updated changelog   | Sally Khalil
 
 
 ## References
