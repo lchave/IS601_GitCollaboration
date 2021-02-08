@@ -35,6 +35,7 @@ For example: in the image below, the repo was cloned before commits were made. A
 
 Collaborating with others in a remote repository, following a push command, a pull and merge command must be applied in the github repository to update with the most recent changes within the local repository.
 
+
 ## 5. Pull
 The git pull command is used to pull content from a remote repository to a local repository. This ensures that a user is working on the most recent version of the repo. Merging any updates by collaborators is part of the general git workflow. Git pull is a simpler command that combines the git fetch and git merge commands; combining both steps into one.
 
@@ -47,3 +48,17 @@ For example: In the images below, the git pull command works as the shorthand fo
 ![Git Pull](/Images/Git-Pull-2.png)
 
 Another important thing to note; GitHub allows multiple collaborators to work on the same repository at the same time. However, after adding commits to a local repo, the changes must then be pushed out to the remote. The conflict may occur if multiple collaborators are working on the same repository. Git will protect the changes made by other collaborators by flagging as a conflict once pull and merge function is applied. Users will then be able to correct the conflicts before completing a push, pull, merge into the share GitHub repo. 
+
+
+## 6. Remote
+The git remote command allows you to create, view, and delete links with other repositories. This is very useful when collaborating with other creators. It is done using a repository’s direct URL or the individual’s shortname.
+
+For example, for this mini project, GitHub was used for collaborating with classmates by sharing one common repository. The remote command can be used in this case to connect both collaborators to a single repository.
+
+In the image below, three repositories are presented, your personal repository and two remote repositories. The git remote command acts as an interface for you to access the remote entries in the linked repositories.
+
+**Git Remote Visual Display**
+![Git Remote](/Images/Git-remote-visual.PNG)
+
+The remote command is used along with the git push and pull commands (described in previous sections) for complete syncing capabilities.
+
