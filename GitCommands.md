@@ -62,3 +62,10 @@ In the image below, three repositories are presented, your personal repository a
 
 The remote command is used along with the git push and pull commands (described in previous sections) for complete syncing capabilities.
 
+### a) Adding a Remote
+The git remote add command creates a connection to a new remote repository. As briefly referenced above, you can add a remote repo using a short name rather than a complete URL for convenience. The short name can then be used to clone to your local repo.
+
+For example: $ git remote add <name> <url> can be used to add a new remote repository to an existing one.
+
+
+

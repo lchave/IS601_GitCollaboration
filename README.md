@@ -22,10 +22,13 @@
     3. [Checkout](GitCommands.md#3-checkout)
     4. [Push](GitCommands.md#4-push)
     5. [Pull](GitCommands.md#5-pull)
-    6. [Remote](GitCommands.md#6-remote) 
-       a. Add 
-       b. Remove 
-       c. Show
+    6. [Remote](GitCommands.md#6-remote)
+       
+        a. [Add](GitCommands.md#a-adding-a-remote) 
+       
+        b. Remove 
+       
+        c. Show
     7. Status
 
 ## Changelog
@@ -70,6 +73,9 @@ Feature |   Added Git Remote definition   |   Sally Khalil
 Task    |   Updated changelog and added reference   | Sally Khalil
 Task    |   Updated Clone vs. Fork definition   |   Luis Chavez Saenz
 Feature |   Added Gitflow definition    | Luis Chavez Saenz
+Feature |   Added Git Remote Addition definition   |   Sally Khalil
+Task    |   Updated changelog and added reference   | Sally Khalil
+
 
 ## References
 1. [Git - What is Git?](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
@@ -92,3 +98,5 @@ Feature |   Added Gitflow definition    | Luis Chavez Saenz
 18. [The difference between forking and cloning a repository](https://github.community/t/the-difference-between-forking-and-cloning-a-repository/10189)
 19. [Gitflow Workflow | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow#:~:text=Gitflow%20Workflow%20is%20a%20Git,designed%20around%20the%20project%20release.)
 20. [Introducing Gitflow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
+21. [Git Remote Add/Remove/Show](https://www.git-tower.com/learn/git/commands/git-remote/)
+
