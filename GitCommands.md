@@ -41,10 +41,10 @@ The git pull command is used to pull content from a remote repository to a local
 
 For example: In the images below, the git pull command works as the shorthand for git fetch followed by a git merge of the branch that was fetched from the new work done in the remote repo. Results of the [ $ git pull ] can be seen in the second image.
 
-**Git Pull**
+**Before [$ Git Pull] Command**
 ![Git Pull](/Images/Git-Pull-1.png)
 
-**Git Pull**
+**Results**
 ![Git Pull](/Images/Git-Pull-2.png)
 
 Another important thing to note; GitHub allows multiple collaborators to work on the same repository at the same time. However, after adding commits to a local repo, the changes must then be pushed out to the remote. The conflict may occur if multiple collaborators are working on the same repository. Git will protect the changes made by other collaborators by flagging as a conflict once pull and merge function is applied. Users will then be able to correct the conflicts before completing a push, pull, merge into the share GitHub repo. 
