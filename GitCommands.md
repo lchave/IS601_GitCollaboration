@@ -72,4 +72,8 @@ The git remote remove command cuts all connections from a remote repository; dis
 
 For example: $ git remove <name> can be used to detach a remote repository from an existing local one.
 
+### c) Showing a Remote
+The git remote show command can be used to view the servers that are connected to the remote. The following command can be used to view all remote repositories connected to your local repository:  $ git remote -v
+
+This will give us a list of all bookmarked remote repositories connected to the local. 
 
