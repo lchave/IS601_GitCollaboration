@@ -23,9 +23,9 @@
     4. [Push](GitCommands.md#4-push)
     5. [Pull](GitCommands.md#5-pull)
     6. [Remote](GitCommands.md#6-remote)
-       a. [Add](GitCommands.md#a-adding-a-remote) 
-       b. [Remove](GitCommands.md#b-removing-a-remote) 
-       c. [Show](GitCommands.md#c-showing-a-remote)
+       1. [Add](GitCommands.md#a-adding-a-remote) 
+       2. [Remove](GitCommands.md#b-removing-a-remote) 
+       3. [Show](GitCommands.md#c-showing-a-remote)
     7. [Status](GitCommands.md#7-status)
 
 ## Changelog
