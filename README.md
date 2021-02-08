@@ -14,19 +14,22 @@
 3.  [Git Terminology](/GitTerminology.md#git-terminology)
     1. [Repository](/GitTerminology.md#repository)
     2. [Clone vs. Fork](GitTerminology.md#clone-vs-fork)
-    3. Branch
-    4. Master Branch
+    3. [Branch](GitTerminology.md#branch)
+    4. [Master Branch](GitTerminology.md#master-branch)
 4.  [Git Commands](/GitCommands.md#git-commands)
     1. [Commit](/GitCommands.md#1-commit)
     2. [Merge](/GitCommands.md#2-merge)
     3. [Checkout](GitCommands.md#3-checkout)
     4. [Push](GitCommands.md#4-push)
     5. [Pull](GitCommands.md#5-pull)
-    6. [Remote](GitCommands.md#6-remote) 
-       a. Add 
-       b. Remove 
-       c. Show
-    7. Status
+    6. [Remote](GitCommands.md#6-remote)
+       
+        a. [Add](GitCommands.md#a-adding-a-remote) 
+       
+        b. [Remove](GitCommands.md#b-removing-a-remote) 
+       
+        c. [Show](GitCommands.md#c-showing-a-remote)
+    7. [Status](GitCommands.md#7-status)
 
 ## Changelog
 **Change Type** | **Change description** | **Author**
@@ -70,6 +73,19 @@ Feature |   Added Git Remote definition   |   Sally Khalil
 Task    |   Updated changelog and added reference   | Sally Khalil
 Task    |   Updated Clone vs. Fork definition   |   Luis Chavez Saenz
 Feature |   Added Gitflow definition    | Luis Chavez Saenz
+Feature |   Added Git Remote Addition definition   |   Sally Khalil
+Task    |   Updated changelog and added reference   | Sally Khalil
+Feature |   Added Git Remote Removal definition   |   Sally Khalil
+Task    |   Updated changelog   | Sally Khalil
+Feature |   Added Git Remote Show definition   |   Sally Khalil
+Task    |   Updated changelog   | Sally Khalil
+Feature |   Added Git Status definition   |   Sally Khalil
+Task    |   Updated changelog and added reference   | Sally Khalil
+Feature |   Added Branch definition   |   Sally Khalil
+Task    |   Updated changelog and added reference   | Sally Khalil
+Feature |   Added Master Branch definition   |   Sally Khalil
+Task    |   Updated changelog and added reference   | Sally Khalil
+Task    |   Updated Master Branch Definition   | Sally Khalil
 
 ## References
 1. [Git - What is Git?](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
@@ -92,3 +108,8 @@ Feature |   Added Gitflow definition    | Luis Chavez Saenz
 18. [The difference between forking and cloning a repository](https://github.community/t/the-difference-between-forking-and-cloning-a-repository/10189)
 19. [Gitflow Workflow | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow#:~:text=Gitflow%20Workflow%20is%20a%20Git,designed%20around%20the%20project%20release.)
 20. [Introducing Gitflow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
+21. [Git Remote Add/Remove/Show](https://www.git-tower.com/learn/git/commands/git-remote/)
+22. [Git Status](https://www.atlassian.com/git/tutorials/inspecting-a-repository#:~:text=The%20git%20status%20command%20displays,regarding%20the%20committed%20project%20history.)
+23. [Why use Git Status?](https://github.com/git-guides/git-status)
+24. [Git Branch](https://uoftcoders.github.io/studyGroup/lessons/git/branches/lesson/)
+25. [Git Master Branches](https://www.atlassian.com/git/tutorials/using-branches)

@@ -62,3 +62,27 @@ In the image below, three repositories are presented, your personal repository a
 
 The remote command is used along with the git push and pull commands (described in previous sections) for complete syncing capabilities.
 
+### a) Adding a Remote
+The git remote add command creates a connection to a new remote repository. As briefly referenced above, you can add a remote repo using a short name rather than a complete URL for convenience. The short name can then be used to clone to your local repo.
+
+For example: $ git remote add <name> <url> can be used to add a new remote repository to an existing one.
+
+### b) Removing a remote
+The git remote remove command cuts all connections from a remote repository; disconnecting it from the local repository. The remote repo is unaffected by this command, but the local repo will no longer be able to access the remote.
+
+For example: $ git remove <name> can be used to detach a remote repository from an existing local one.
+
+### c) Showing a Remote
+The git remote show command can be used to view the servers that are connected to the remote. The following command can be used to view all remote repositories connected to your local repository:  $ git remote -v
+
+This will give us a list of all bookmarked remote repositories connected to the local. 
+
+
+## 7. Status
+The git status command is used to show what files were staged or not staged and what files are not being tracked by Git. The git status should not be confused with the git log. If you have any doubts in your current repository, you can run the git status to understand if:
+* a branch is checked out
+* there are changed that were not committed
+* your current branch is linked to a remote branch
+
+Git status is only an output command, so it will not make any changes to your repository but will simply provide you with important information. 
+
