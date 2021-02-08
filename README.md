@@ -15,7 +15,7 @@
     1. [Repository](/GitTerminology.md#repository)
     2. [Clone vs. Fork](GitTerminology.md#clone-vs-fork)
     3. [Branch](GitTerminology.md#branch)
-    4. Master Branch
+    4. [Master Branch](GitTerminology.md#master-branch)
 4.  [Git Commands](/GitCommands.md#git-commands)
     1. [Commit](/GitCommands.md#1-commit)
     2. [Merge](/GitCommands.md#2-merge)
@@ -83,6 +83,9 @@ Feature |   Added Git Status definition   |   Sally Khalil
 Task    |   Updated changelog and added reference   | Sally Khalil
 Feature |   Added Branch definition   |   Sally Khalil
 Task    |   Updated changelog and added reference   | Sally Khalil
+Feature |   Added Master Branch definition   |   Sally Khalil
+Task    |   Updated changelog and added reference   | Sally Khalil
+
 
 ## References
 1. [Git - What is Git?](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
