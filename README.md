@@ -22,7 +22,10 @@
     3. [Checkout](GitCommands.md#3-checkout)
     4. [Push](GitCommands.md#4-push)
     5. [Pull](GitCommands.md#5-pull)
-    6. Remote Add / Remove / Show
+    6. [Remote](GitCommands.md#6-remote) 
+       a. Add 
+       b. Remove 
+       c. Show
     7. Status
 
 ## Changelog
@@ -63,6 +66,8 @@ Feature |   Added Git Push definition and example   |   Sally Khalil
 Task    |   Updated changelog and added reference   | Sally Khalil
 Feature |   Added Git Pull definition and example   |   Sally Khalil
 Task    |   Updated changelog and added reference   | Sally Khalil
+Feature |   Added Git Remote definition   |   Sally Khalil
+Task    |   Updated changelog and added reference   | Sally Khalil
 
 
 ## References
@@ -79,5 +84,6 @@ Task    |   Updated changelog and added reference   | Sally Khalil
 11. [Git Commands](https://www.git-tower.com/learn/git/commands/)
 12. [Git Push](https://www.atlassian.com/git/tutorials/syncing/git-push)
 13. [Git Pull](https://www.atlassian.com/git/tutorials/syncing/git-pull)
+14. [Git Remote](https://www.atlassian.com/git/tutorials/syncing#)
 
 
