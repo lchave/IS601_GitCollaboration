@@ -28,7 +28,7 @@
        
         b. [Remove](GitCommands.md#b-removing-a-remote) 
        
-        c. Show
+        c. [Show](GitCommands.md#c-showing-a-remote)
     7. Status
 
 ## Changelog
@@ -76,6 +76,8 @@ Feature |   Added Gitflow definition    | Luis Chavez Saenz
 Feature |   Added Git Remote Addition definition   |   Sally Khalil
 Task    |   Updated changelog and added reference   | Sally Khalil
 Feature |   Added Git Remote Removal definition   |   Sally Khalil
+Task    |   Updated changelog   | Sally Khalil
+Feature |   Added Git Remote Show definition   |   Sally Khalil
 Task    |   Updated changelog   | Sally Khalil
 
 
