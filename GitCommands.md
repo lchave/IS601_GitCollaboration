@@ -77,3 +77,12 @@ The git remote show command can be used to view the servers that are connected t
 
 This will give us a list of all bookmarked remote repositories connected to the local. 
 
+
+## 7. Status
+The git status command is used to show what files were staged or not staged and what files are not being tracked by Git. The git status should not be confused with the git log. If you have any doubts in your current repository, you can run the git status to understand if:
+* a branch is checked out
+* there are changed that were not committed
+* your current branch is linked to a remote branch
+
+Git status is only an output command, so it will not make any changes to your repository but will simply provide you with important information. 
+

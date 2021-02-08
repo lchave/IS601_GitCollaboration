@@ -29,7 +29,7 @@
         b. [Remove](GitCommands.md#b-removing-a-remote) 
        
         c. [Show](GitCommands.md#c-showing-a-remote)
-    7. Status
+    7. [Status](GitCommands.md#7-status)
 
 ## Changelog
 **Change Type** | **Change description** | **Author**
@@ -79,6 +79,8 @@ Feature |   Added Git Remote Removal definition   |   Sally Khalil
 Task    |   Updated changelog   | Sally Khalil
 Feature |   Added Git Remote Show definition   |   Sally Khalil
 Task    |   Updated changelog   | Sally Khalil
+Feature |   Added Git Status definition   |   Sally Khalil
+Task    |   Updated changelog and added reference   | Sally Khalil
 
 
 ## References
@@ -103,4 +105,5 @@ Task    |   Updated changelog   | Sally Khalil
 19. [Gitflow Workflow | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow#:~:text=Gitflow%20Workflow%20is%20a%20Git,designed%20around%20the%20project%20release.)
 20. [Introducing Gitflow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
 21. [Git Remote Add/Remove/Show](https://www.git-tower.com/learn/git/commands/git-remote/)
-
+22. [Git Status](https://www.atlassian.com/git/tutorials/inspecting-a-repository#:~:text=The%20git%20status%20command%20displays,regarding%20the%20committed%20project%20history.)
+23. [Why use Git Status?](https://github.com/git-guides/git-status)
