@@ -30,12 +30,12 @@ As stated above, clonning a repository creates a copy of it. This copy is create
 ### Fork
 Forking a repository also creates a copy, however, this copy is created on your account without all the brances or commits. Despite not being a full copy as a clone, one of the main advantages is that developer could suggest any changes to the main repository without being a collaborator and any changes they made won't affect the original repository unless the approved by the owner.
 
+![Clone vs. Fork](/Images/CloneVsFork.png)
 
 ## Branch
 A branch in git can be thought of as a new tab, or a new action. It can also be referenced as a pointer or where focus should be placed in a repository. The git branch command allows the user to create, list, rename, or delete branches. The branch command is used along with the git checkout and git merge commands in order to switch between different branches.
 
 For example: The initial commit is thought of as the master branch. A new branch can be created off of the master using the [ $ git branch <branch name> ] command. New commits can be added to the new branch by using the git checkout command. Later we will see how the two commands come together.
-
 
 ## Master Branch
 The master branch is no different from an ordinary branch. It is simply the default branch. An asterisks (*) on an existing branch will indicate that it is the master branch. We can switch between branches using the checkout command, making the checked out commit the new master. If a commit is made here, the master branch moves forward with the new commit.
@@ -49,4 +49,3 @@ The master branch is no different from an ordinary branch. It is simply the defa
 ````
 
 ![Git New Branch](/Images/Git-Branch-2.PNG)
-
