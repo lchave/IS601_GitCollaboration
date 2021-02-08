@@ -25,7 +25,7 @@ For example: In the image below, the git checkout command is used to create a ne
 ![Git Checkout](/Images/Git-Checkout.png)
 
 
-##4. Push
+## 4. Push
 The git push command is used to upload a local repository to a remote (central) repository, syncing all new commits in a new branch to the master. This allows all team members to have access to the changes you have made in your local repository. This can be compared to the act of uploading new information to an existing repo.
 
 For example: in the image below, the repo was cloned before commits were made. After adding commits, the changes were pushed to the cloned repo.
@@ -34,3 +34,16 @@ For example: in the image below, the repo was cloned before commits were made. A
 ![Git Push](/Images/Git-Push.png)
 
 Collaborating with others in a remote repository, following a push command, a pull and merge command must be applied in the github repository to update with the most recent changes within the local repository.
+
+## 5. Pull
+The git pull command is used to pull content from a remote repository to a local repository. This ensures that a user is working on the most recent version of the repo. Merging any updates by collaborators is part of the general git workflow. Git pull is a simpler command that combines the git fetch and git merge commands; combining both steps into one.
+
+For example: In the images below, the git pull command works as the shorthand for git fetch followed by a git merge of the branch that was fetched from the new work done in the remote repo. Results of the [ $ git pull ] can be seen in the second image.
+
+**Git Pull**
+![Git Pull](/Images/Git-Pull-1.png)
+
+**Git Pull**
+![Git Pull](/Images/Git-Pull-2.png)
+
+Another important thing to note; GitHub allows multiple collaborators to work on the same repository at the same time. However, after adding commits to a local repo, the changes must then be pushed out to the remote. The conflict may occur if multiple collaborators are working on the same repository. Git will protect the changes made by other collaborators by flagging as a conflict once pull and merge function is applied. Users will then be able to correct the conflicts before completing a push, pull, merge into the share GitHub repo. 
