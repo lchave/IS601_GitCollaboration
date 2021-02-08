@@ -1,0 +1,2 @@
+# Gitflow Workflow
+The Gitflow workflow is a brancing model normally used in projects that have a scheduled release cycle. This model is well suited for collaboration and allows development teams to scale.
