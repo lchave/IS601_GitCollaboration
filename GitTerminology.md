@@ -41,6 +41,7 @@ For example: The initial commit is thought of as the master branch. A new branch
 The master branch is no different from an ordinary branch. It is simply the default branch. An asterisks (*) on an existing branch will indicate that it is the master branch. We can switch between branches using the checkout command, making the checked out commit the new master. If a commit is made here, the master branch moves forward with the new commit.
 
 **Example: Git Branch Command (Branch vs Master Branch)**
+
 ![Git Master Branch:](/Images/Git-Branch-1.PNG)
 
 ````
