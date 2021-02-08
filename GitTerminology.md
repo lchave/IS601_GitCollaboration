@@ -29,3 +29,5 @@ As stated above, clonning a repository creates a copy of it. This copy is create
 
 ### Fork
 Forking a repository also creates a copy, however, this copy is created on your account without all the brances or commits. Despite not being a full copy as a clone, one of the main advantages is that developer could suggest any changes to the main repository without being a collaborator and any changes they made won't affect the original repository unless the approved by the owner.
+
+![Clone vs. Fork](/Images/CloneVsFork.png)
