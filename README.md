@@ -20,9 +20,12 @@
     1. [Commit](/GitCommands.md#1-commit)
     2. [Merge](/GitCommands.md#2-merge)
     3. [Checkout](GitCommands.md#3-checkout)
-    4. Push
-    5. Pull
-    6. Remote Add / Remove / Show
+    4. [Push](GitCommands.md#4-push)
+    5. [Pull](GitCommands.md#5-pull)
+    6. [Remote](GitCommands.md#6-remote) 
+       a. Add 
+       b. Remove 
+       c. Show
     7. Status
 
 ## Changelog
@@ -55,6 +58,16 @@ Task    |   Added internal links    |   Luis Chavez Saenz
 Feature |   Added Clone vs. Fork definition    |   Luis Chavez Saenz
 Feature |   Added Git Checkout definition and example   |   Sally Khalil
 Task    |   Updated changelog and added reference   | Sally Khalil
+Task    |   Added image for git commit example   | Sally Khalil
+Task    |   Updated changelog and added reference   | Sally Khalil
+Task    |   Added image for git merge and checkout example   | Sally Khalil
+Task    |   Updated changelog   | Sally Khalil
+Feature |   Added Git Push definition and example   |   Sally Khalil
+Task    |   Updated changelog and added reference   | Sally Khalil
+Feature |   Added Git Pull definition and example   |   Sally Khalil
+Task    |   Updated changelog and added reference   | Sally Khalil
+Feature |   Added Git Remote definition   |   Sally Khalil
+Task    |   Updated changelog and added reference   | Sally Khalil
 Task    |   Updated Clone vs. Fork definition   |   Luis Chavez Saenz
 Feature |   Added Gitflow definition    | Luis Chavez Saenz
 
@@ -70,10 +83,12 @@ Feature |   Added Gitflow definition    | Luis Chavez Saenz
 9. [What is a repository?](https://www.lynda.com/Git-tutorials/What-repository/601791/629515-4.html)
 10. [Git - Getting a Git Repository](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
 11. [Git Commands](https://www.git-tower.com/learn/git/commands/)
-12. [Git clone | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone)
-13. [Setting up a repository | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
-14. [Git Guides - git clone](https://github.com/git-guides/git-clone)
-15. [The difference between forking and cloning a repository](https://github.community/t/the-difference-between-forking-and-cloning-a-repository/10189)
-16. [Gitflow Workflow | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow#:~:text=Gitflow%20Workflow%20is%20a%20Git,designed%20around%20the%20project%20release.)
-17. [Introducing Gitflow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
-
+12. [Git Push](https://www.atlassian.com/git/tutorials/syncing/git-push)
+13. [Git Pull](https://www.atlassian.com/git/tutorials/syncing/git-pull)
+14. [Git Remote](https://www.atlassian.com/git/tutorials/syncing#)
+15. [Git clone | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone)
+16. [Setting up a repository | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
+17. [Git Guides - git clone](https://github.com/git-guides/git-clone)
+18. [The difference between forking and cloning a repository](https://github.community/t/the-difference-between-forking-and-cloning-a-repository/10189)
+19. [Gitflow Workflow | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow#:~:text=Gitflow%20Workflow%20is%20a%20Git,designed%20around%20the%20project%20release.)
+20. [Introducing Gitflow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
