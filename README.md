@@ -10,7 +10,7 @@
     2. [Docker](/ImprovingProductivityCompetitiveness.md#docker)
     3. [Automated Testing](/ImprovingProductivityCompetitiveness.md#automated-testing)
     4. [Continuous Integration](/ImprovingProductivityCompetitiveness.md#continuous-integration)
-2.  Gitflow Workflow
+2.  [Gitflow Workflow](/GitflowWorkflow.md#gitflow-workflow)
 3.  [Git Terminology](/GitTerminology.md#git-terminology)
     1. [Repository](/GitTerminology.md#repository)
     2. [Clone vs. Fork](GitTerminology.md#clone-vs-fork)
@@ -68,7 +68,8 @@ Feature |   Added Git Pull definition and example   |   Sally Khalil
 Task    |   Updated changelog and added reference   | Sally Khalil
 Feature |   Added Git Remote definition   |   Sally Khalil
 Task    |   Updated changelog and added reference   | Sally Khalil
-
+Task    |   Updated Clone vs. Fork definition   |   Luis Chavez Saenz
+Feature |   Added Gitflow definition    | Luis Chavez Saenz
 
 ## References
 1. [Git - What is Git?](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
@@ -85,5 +86,9 @@ Task    |   Updated changelog and added reference   | Sally Khalil
 12. [Git Push](https://www.atlassian.com/git/tutorials/syncing/git-push)
 13. [Git Pull](https://www.atlassian.com/git/tutorials/syncing/git-pull)
 14. [Git Remote](https://www.atlassian.com/git/tutorials/syncing#)
-
-
+15. [Git clone | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone)
+16. [Setting up a repository | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
+17. [Git Guides - git clone](https://github.com/git-guides/git-clone)
+18. [The difference between forking and cloning a repository](https://github.community/t/the-difference-between-forking-and-cloning-a-repository/10189)
+19. [Gitflow Workflow | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow#:~:text=Gitflow%20Workflow%20is%20a%20Git,designed%20around%20the%20project%20release.)
+20. [Introducing Gitflow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
