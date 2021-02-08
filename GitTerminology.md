@@ -22,3 +22,10 @@ git commit -m 'Intial project version'
 ```
 
 ## Clone vs. Fork
+There are different approaches a developer can take when working with a repository. Creating a copy of the repository is one of the many tasks that can be completed in different ways, here we will cover a couple of them and what their differences are.
+
+### Clone
+As stated above, clonning a repository creates a copy of it. This copy is created on your local drive and its a full working copy with all files, all brances and all commits. In order to make any changes to the repository you need to be added as a collaborator to the project.
+
+### Fork
+Forking a repository also creates a copy, however, this copy is created on your account without all the brances or commits. Despite not being a full copy as a clone, one of the main advantages is that developer could suggest any changes to the main repository without being a collaborator and any changes they made won't affect the original repository unless the approved by the owner.
