@@ -20,7 +20,7 @@
     1. [Commit](/GitCommands.md#1-commit)
     2. [Merge](/GitCommands.md#2-merge)
     3. [Checkout](GitCommands.md#3-checkout)
-    4. Push
+    4. [Push](GitCommands.md#4-push)
     5. Pull
     6. Remote Add / Remove / Show
     7. Status
@@ -59,6 +59,8 @@ Task    |   Added image for git commit example   | Sally Khalil
 Task    |   Updated changelog and added reference   | Sally Khalil
 Task    |   Added image for git merge and checkout example   | Sally Khalil
 Task    |   Updated changelog   | Sally Khalil
+Feature |   Added Git Pull definition and example   |   Sally Khalil
+Task    |   Updated changelog and added reference   | Sally Khalil
 
 
 ## References
@@ -73,5 +75,6 @@ Task    |   Updated changelog   | Sally Khalil
 9. [What is a repository?](https://www.lynda.com/Git-tutorials/What-repository/601791/629515-4.html)
 10. [Git - Getting a Git Repository](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
 11. [Git Commands](https://www.git-tower.com/learn/git/commands/)
+12. [Git Push](https://www.atlassian.com/git/tutorials/syncing/git-push)
 
 
