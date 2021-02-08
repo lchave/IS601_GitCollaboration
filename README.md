@@ -85,7 +85,7 @@ Feature |   Added Branch definition   |   Sally Khalil
 Task    |   Updated changelog and added reference   | Sally Khalil
 Feature |   Added Master Branch definition   |   Sally Khalil
 Task    |   Updated changelog and added reference   | Sally Khalil
-
+Task    |   Updated Master Branch Definition   | Sally Khalil
 
 ## References
 1. [Git - What is Git?](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
